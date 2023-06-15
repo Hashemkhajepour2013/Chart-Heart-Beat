@@ -1,0 +1,48 @@
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\bin\Debug\ChartingSample.exe
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\bin\Debug\ChartingSample.pdb
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\bin\Debug\WPFToolkit.dll
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\bin\Debug\WPFToolkit.pdb
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\Window1.baml
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\Window1.g.cs
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\App.g.cs
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartingSample_MarkupCompile.cache
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartingSample.g.resources
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartingSample.Properties.Resources.resources
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartingSample.csproj.GenerateResource.Cache
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartingSample.exe
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartingSample.pdb
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartingSample_MarkupCompile.lref
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartTypeBar.g.cs
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartTypeColumn.g.cs
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartTypeLine.g.cs
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartTypePie.g.cs
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartTypeArea.g.cs
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartTypeScatter.g.cs
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartTypeBar.baml
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartTypeColumn.baml
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartTypeLine.baml
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartTypePie.baml
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartTypeArea.baml
+C:\Books\Book WPF\Chapter 9 Graphics\ChartingSample\ChartingSample\obj\Debug\ChartTypeScatter.baml
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\bin\Debug\ChartingSample.exe
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\bin\Debug\ChartingSample.pdb
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\bin\Debug\WPFToolkit.dll
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\bin\Debug\WPFToolkit.pdb
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\obj\Debug\ChartingSample.csproj.AssemblyReference.cache
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\obj\Debug\Window1.baml
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\obj\Debug\ChartTypeLine.g.cs
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\obj\Debug\Window1.g.cs
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\obj\Debug\App.g.cs
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\obj\Debug\ChartingSample_MarkupCompile.cache
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\obj\Debug\ChartingSample_MarkupCompile.lref
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\obj\Debug\ChartTypeLine.baml
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\obj\Debug\ChartingSample.g.resources
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\obj\Debug\ChartingSample.Properties.Resources.resources
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\obj\Debug\ChartingSample.csproj.GenerateResource.cache
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\obj\Debug\ChartingSample.csproj.CoreCompileInputs.cache
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\obj\Debug\ChartingSample.csproj.CopyComplete
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\obj\Debug\ChartingSample.exe
+C:\Users\hashem\Desktop\ChartingSample\ChartingSample\obj\Debug\ChartingSample.pdb

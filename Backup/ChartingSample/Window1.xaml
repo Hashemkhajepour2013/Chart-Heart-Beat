@@ -1,0 +1,17 @@
+﻿<Window x:Class="ChartingSample.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+           Title="Charting Samples" Height="280" Width="507">
+    <Grid>
+        <Button Height="30" HorizontalAlignment="Left" Margin="20,18,0,0" Name="BarChartButton" 
+                VerticalAlignment="Top" Width="120" Click="BarChartButton_Click">Bar Chart</Button>
+        <Button Height="30" Margin="156,54,184,0" Name="PieChartButton" 
+                VerticalAlignment="Top" Click="PieChartButton_Click">Pie Chart</Button>
+        <Button Height="30" Margin="156,18,184,0" Name="ColumnChartButton" 
+                VerticalAlignment="Top" Click="ColumnChartButton_Click">Column Chart</Button>
+        <Button Margin="156,90,184,0" Name="AreaChartButton" Height="30" VerticalAlignment="Top" Click="AreaChartButton_Click">Area Chart</Button>
+        <Button HorizontalAlignment="Left" Margin="20,90,0,0" Name="ScatterChartButton" Width="120" Height="30" VerticalAlignment="Top" Click="ScatterChartButton_Click">Scatter Chart</Button>
+        <Button Height="30" Margin="20,54,0,0" Name="LineChartButton" 
+                VerticalAlignment="Top" HorizontalAlignment="Left" Width="120" Click="LineChartButton_Click">Line Chart</Button>
+    </Grid>
+</Window>
